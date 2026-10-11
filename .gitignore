@@ -1,0 +1,8 @@
+AgentsIntro/.env
+LangChainIntro/.env
+PackageMenager/.env
+RAGIntro/.env
+ReAct/.env
+SimpleChatBotWithMemory/.env
+VectorStoreIntro/.env
+.env
